@@ -8,3 +8,4 @@ First string
 Файлы с расширением .tfvars и .tfvars.json
 Файлы с названием override.tf, override.tf.json, *_override.tf, *_override.tf.json
 Конфигурационные файлы .terraformrc и terraform.rc
+НОВАЯ СТРОЧКА
